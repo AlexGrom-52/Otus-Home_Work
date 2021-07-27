@@ -19,5 +19,9 @@
   "homepage": "https://github.com/AlexGrom-52/Otus-Home_Work#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
   }
 }
