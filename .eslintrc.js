@@ -5,15 +5,15 @@ module.exports = {
     'jest/globals': true,
   },
   extends: [
-    'airbnb-base',
+    'airbnb-base', 'prettier',
   ],
   parserOptions: {
     ecmaVersion: 12,
     sourceType: 'module',
   },
-  plugins: ["jest"],
+  plugins: ['jest'],
   rules: {
-    'max-len':[ 'error',{
+    'max-len': ['error', {
       ignoreComments: true,
     }],
   },
