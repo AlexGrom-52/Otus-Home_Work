@@ -1,5 +1,5 @@
 {
-  "name": "otus-home_work",
+  "name": "Otus-Home_Work",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/AlexGrom-52/Otus-Home_Work.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlexGrom-52/Otus-Home_Work/issues"
   },
-  "homepage": "https://github.com/AlexGrom-52/Otus-Home_Work#readme"
+  "homepage": "https://github.com/AlexGrom-52/Otus-Home_Work#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
